@@ -191,6 +191,10 @@
     "20627140": {
       "tag_name": "v7.8",
       "fully_synced_at": "2025-07-26 08:21:15.215024"
+    },
+    "21040197": {
+      "tag_name": "v7.8.1",
+      "fully_synced_at": "2025-07-26 08:21:54.968303"
     }
   },
   "assets": {
@@ -677,6 +681,116 @@
         "size": 566,
         "updated_at": "2025-07-26T08:21:54+00:00",
         "synced_at": "2025-07-26 08:21:54.966226"
+      }
+    },
+    "21993553": {
+      "npp.7.8.2.bin.7z_2825026": {
+        "name": "npp.7.8.2.bin.7z",
+        "size": 2825026,
+        "updated_at": "2025-07-26T08:22:08+00:00",
+        "synced_at": "2025-07-26 08:22:08.493792"
+      },
+      "npp.7.8.2.bin.7z.sig_566": {
+        "name": "npp.7.8.2.bin.7z.sig",
+        "size": 566,
+        "updated_at": "2025-07-26T08:22:09+00:00",
+        "synced_at": "2025-07-26 08:22:09.995687"
+      },
+      "npp.7.8.2.bin.minimalist.7z_1439701": {
+        "name": "npp.7.8.2.bin.minimalist.7z",
+        "size": 1439701,
+        "updated_at": "2025-07-26T08:22:11+00:00",
+        "synced_at": "2025-07-26 08:22:11.740268"
+      },
+      "npp.7.8.2.bin.minimalist.7z.sig_566": {
+        "name": "npp.7.8.2.bin.minimalist.7z.sig",
+        "size": 566,
+        "updated_at": "2025-07-26T08:22:13+00:00",
+        "synced_at": "2025-07-26 08:22:13.226410"
+      },
+      "npp.7.8.2.bin.minimalist.x64.7z_1688345": {
+        "name": "npp.7.8.2.bin.minimalist.x64.7z",
+        "size": 1688345,
+        "updated_at": "2025-07-26T08:22:14+00:00",
+        "synced_at": "2025-07-26 08:22:14.823348"
+      },
+      "npp.7.8.2.bin.minimalist.x64.7z.sig_566": {
+        "name": "npp.7.8.2.bin.minimalist.x64.7z.sig",
+        "size": 566,
+        "updated_at": "2025-07-26T08:22:16+00:00",
+        "synced_at": "2025-07-26 08:22:16.305500"
+      },
+      "npp.7.8.2.bin.x64.7z_3109853": {
+        "name": "npp.7.8.2.bin.x64.7z",
+        "size": 3109853,
+        "updated_at": "2025-07-26T08:22:18+00:00",
+        "synced_at": "2025-07-26 08:22:18.560355"
+      },
+      "npp.7.8.2.bin.x64.7z.sig_566": {
+        "name": "npp.7.8.2.bin.x64.7z.sig",
+        "size": 566,
+        "updated_at": "2025-07-26T08:22:19+00:00",
+        "synced_at": "2025-07-26 08:22:20.030256"
+      },
+      "npp.7.8.2.bin.x64.zip_4599136": {
+        "name": "npp.7.8.2.bin.x64.zip",
+        "size": 4599136,
+        "updated_at": "2025-07-26T08:22:21+00:00",
+        "synced_at": "2025-07-26 08:22:21.835653"
+      },
+      "npp.7.8.2.bin.x64.zip.sig_566": {
+        "name": "npp.7.8.2.bin.x64.zip.sig",
+        "size": 566,
+        "updated_at": "2025-07-26T08:22:23+00:00",
+        "synced_at": "2025-07-26 08:22:23.267106"
+      },
+      "npp.7.8.2.bin.zip_4128243": {
+        "name": "npp.7.8.2.bin.zip",
+        "size": 4128243,
+        "updated_at": "2025-07-26T08:22:24+00:00",
+        "synced_at": "2025-07-26 08:22:25.065970"
+      },
+      "npp.7.8.2.bin.zip.sig_566": {
+        "name": "npp.7.8.2.bin.zip.sig",
+        "size": 566,
+        "updated_at": "2025-07-26T08:22:26+00:00",
+        "synced_at": "2025-07-26 08:22:26.501926"
+      },
+      "npp.7.8.2.checksums.sha256_726": {
+        "name": "npp.7.8.2.checksums.sha256",
+        "size": 726,
+        "updated_at": "2025-07-26T08:22:27+00:00",
+        "synced_at": "2025-07-26 08:22:28.001644"
+      },
+      "npp.7.8.2.checksums.sha256.sig_566": {
+        "name": "npp.7.8.2.checksums.sha256.sig",
+        "size": 566,
+        "updated_at": "2025-07-26T08:22:29+00:00",
+        "synced_at": "2025-07-26 08:22:29.456171"
+      },
+      "npp.7.8.2.Installer.exe_3709392": {
+        "name": "npp.7.8.2.Installer.exe",
+        "size": 3709392,
+        "updated_at": "2025-07-26T08:22:31+00:00",
+        "synced_at": "2025-07-26 08:22:31.518797"
+      },
+      "npp.7.8.2.Installer.exe.sig_566": {
+        "name": "npp.7.8.2.Installer.exe.sig",
+        "size": 566,
+        "updated_at": "2025-07-26T08:22:32+00:00",
+        "synced_at": "2025-07-26 08:22:32.976518"
+      },
+      "npp.7.8.2.Installer.x64.exe_3989824": {
+        "name": "npp.7.8.2.Installer.x64.exe",
+        "size": 3989824,
+        "updated_at": "2025-07-26T08:22:34+00:00",
+        "synced_at": "2025-07-26 08:22:34.825541"
+      },
+      "npp.7.8.2.Installer.x64.exe.sig_566": {
+        "name": "npp.7.8.2.Installer.x64.exe.sig",
+        "size": 566,
+        "updated_at": "2025-07-26T08:22:36+00:00",
+        "synced_at": "2025-07-26 08:22:36.273276"
       }
     }
   },
@@ -1169,6 +1283,16 @@
       "SourceCode_v7.8.1.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-26 08:21:26.053515"
+      }
+    },
+    "v7.8.2": {
+      "SourceCode_v7.8.2.zip": {
+        "exists": true,
+        "synced_at": "2025-07-26 08:22:04.035785"
+      },
+      "SourceCode_v7.8.2.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-26 08:22:06.539426"
       }
     }
   }
