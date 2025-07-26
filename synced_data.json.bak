@@ -443,6 +443,10 @@
     "158714988": {
       "tag_name": "v8.6.8",
       "fully_synced_at": "2025-07-26 09:19:18.119980"
+    },
+    "165327132": {
+      "tag_name": "v8.6.9",
+      "fully_synced_at": "2025-07-26 09:20:16.383582"
     }
   },
   "assets": {
@@ -8799,6 +8803,164 @@
         "updated_at": "2025-07-26T09:20:16+00:00",
         "synced_at": "2025-07-26 09:20:16.370794"
       }
+    },
+    "175512146": {
+      "npp.8.7.checksums.sha256_1126": {
+        "name": "npp.8.7.checksums.sha256",
+        "size": 1126,
+        "updated_at": "2025-07-26T09:20:31+00:00",
+        "synced_at": "2025-07-26 09:20:31.836673"
+      },
+      "npp.8.7.checksums.sha256.sig_566": {
+        "name": "npp.8.7.checksums.sha256.sig",
+        "size": 566,
+        "updated_at": "2025-07-26T09:20:33+00:00",
+        "synced_at": "2025-07-26 09:20:33.225169"
+      },
+      "npp.8.7.Installer.arm64.exe_6309832": {
+        "name": "npp.8.7.Installer.arm64.exe",
+        "size": 6309832,
+        "updated_at": "2025-07-26T09:20:35+00:00",
+        "synced_at": "2025-07-26 09:20:35.469577"
+      },
+      "npp.8.7.Installer.arm64.exe.sig_566": {
+        "name": "npp.8.7.Installer.arm64.exe.sig",
+        "size": 566,
+        "updated_at": "2025-07-26T09:20:36+00:00",
+        "synced_at": "2025-07-26 09:20:36.997831"
+      },
+      "npp.8.7.Installer.exe_6484488": {
+        "name": "npp.8.7.Installer.exe",
+        "size": 6484488,
+        "updated_at": "2025-07-26T09:20:39+00:00",
+        "synced_at": "2025-07-26 09:20:39.454795"
+      },
+      "npp.8.7.Installer.exe.sig_566": {
+        "name": "npp.8.7.Installer.exe.sig",
+        "size": 566,
+        "updated_at": "2025-07-26T09:20:40+00:00",
+        "synced_at": "2025-07-26 09:20:40.930671"
+      },
+      "npp.8.7.Installer.x64.exe_6637056": {
+        "name": "npp.8.7.Installer.x64.exe",
+        "size": 6637056,
+        "updated_at": "2025-07-26T09:20:42+00:00",
+        "synced_at": "2025-07-26 09:20:42.938426"
+      },
+      "npp.8.7.Installer.x64.exe.sig_566": {
+        "name": "npp.8.7.Installer.x64.exe.sig",
+        "size": 566,
+        "updated_at": "2025-07-26T09:20:44+00:00",
+        "synced_at": "2025-07-26 09:20:44.375887"
+      },
+      "npp.8.7.portable.7z_5483589": {
+        "name": "npp.8.7.portable.7z",
+        "size": 5483589,
+        "updated_at": "2025-07-26T09:20:46+00:00",
+        "synced_at": "2025-07-26 09:20:46.420549"
+      },
+      "npp.8.7.portable.7z.sig_566": {
+        "name": "npp.8.7.portable.7z.sig",
+        "size": 566,
+        "updated_at": "2025-07-26T09:20:47+00:00",
+        "synced_at": "2025-07-26 09:20:47.908351"
+      },
+      "npp.8.7.portable.arm64.7z_5445379": {
+        "name": "npp.8.7.portable.arm64.7z",
+        "size": 5445379,
+        "updated_at": "2025-07-26T09:20:49+00:00",
+        "synced_at": "2025-07-26 09:20:49.759644"
+      },
+      "npp.8.7.portable.arm64.7z.sig_566": {
+        "name": "npp.8.7.portable.arm64.7z.sig",
+        "size": 566,
+        "updated_at": "2025-07-26T09:20:51+00:00",
+        "synced_at": "2025-07-26 09:20:51.213154"
+      },
+      "npp.8.7.portable.arm64.zip_7650027": {
+        "name": "npp.8.7.portable.arm64.zip",
+        "size": 7650027,
+        "updated_at": "2025-07-26T09:20:53+00:00",
+        "synced_at": "2025-07-26 09:20:53.249956"
+      },
+      "npp.8.7.portable.arm64.zip.sig_566": {
+        "name": "npp.8.7.portable.arm64.zip.sig",
+        "size": 566,
+        "updated_at": "2025-07-26T09:20:54+00:00",
+        "synced_at": "2025-07-26 09:20:54.678542"
+      },
+      "npp.8.7.portable.minimalist.7z_3680091": {
+        "name": "npp.8.7.portable.minimalist.7z",
+        "size": 3680091,
+        "updated_at": "2025-07-26T09:20:56+00:00",
+        "synced_at": "2025-07-26 09:20:56.428817"
+      },
+      "npp.8.7.portable.minimalist.7z.sig_566": {
+        "name": "npp.8.7.portable.minimalist.7z.sig",
+        "size": 566,
+        "updated_at": "2025-07-26T09:20:57+00:00",
+        "synced_at": "2025-07-26 09:20:57.893360"
+      },
+      "npp.8.7.portable.minimalist.arm64.7z_3703257": {
+        "name": "npp.8.7.portable.minimalist.arm64.7z",
+        "size": 3703257,
+        "updated_at": "2025-07-26T09:20:59+00:00",
+        "synced_at": "2025-07-26 09:20:59.620680"
+      },
+      "npp.8.7.portable.minimalist.arm64.7z.sig_566": {
+        "name": "npp.8.7.portable.minimalist.arm64.7z.sig",
+        "size": 566,
+        "updated_at": "2025-07-26T09:21:00+00:00",
+        "synced_at": "2025-07-26 09:21:01.084931"
+      },
+      "npp.8.7.portable.minimalist.x64.7z_3904715": {
+        "name": "npp.8.7.portable.minimalist.x64.7z",
+        "size": 3904715,
+        "updated_at": "2025-07-26T09:21:02+00:00",
+        "synced_at": "2025-07-26 09:21:02.793005"
+      },
+      "npp.8.7.portable.minimalist.x64.7z.sig_566": {
+        "name": "npp.8.7.portable.minimalist.x64.7z.sig",
+        "size": 566,
+        "updated_at": "2025-07-26T09:21:04+00:00",
+        "synced_at": "2025-07-26 09:21:04.284705"
+      },
+      "npp.8.7.portable.x64.7z_5751863": {
+        "name": "npp.8.7.portable.x64.7z",
+        "size": 5751863,
+        "updated_at": "2025-07-26T09:21:05+00:00",
+        "synced_at": "2025-07-26 09:21:06.056355"
+      },
+      "npp.8.7.portable.x64.7z.sig_566": {
+        "name": "npp.8.7.portable.x64.7z.sig",
+        "size": 566,
+        "updated_at": "2025-07-26T09:21:07+00:00",
+        "synced_at": "2025-07-26 09:21:07.546540"
+      },
+      "npp.8.7.portable.x64.zip_7845097": {
+        "name": "npp.8.7.portable.x64.zip",
+        "size": 7845097,
+        "updated_at": "2025-07-26T09:21:09+00:00",
+        "synced_at": "2025-07-26 09:21:09.653854"
+      },
+      "npp.8.7.portable.x64.zip.sig_566": {
+        "name": "npp.8.7.portable.x64.zip.sig",
+        "size": 566,
+        "updated_at": "2025-07-26T09:21:10+00:00",
+        "synced_at": "2025-07-26 09:21:11.128849"
+      },
+      "npp.8.7.portable.zip_7355193": {
+        "name": "npp.8.7.portable.zip",
+        "size": 7355193,
+        "updated_at": "2025-07-26T09:21:12+00:00",
+        "synced_at": "2025-07-26 09:21:13.021769"
+      },
+      "npp.8.7.portable.zip.sig_566": {
+        "name": "npp.8.7.portable.zip.sig",
+        "size": 566,
+        "updated_at": "2025-07-26T09:21:14+00:00",
+        "synced_at": "2025-07-26 09:21:14.493400"
+      }
     }
   },
   "source_codes": {
@@ -9920,6 +10082,16 @@
       "SourceCode_v8.6.9.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-26 09:19:32.712270"
+      }
+    },
+    "v8.7": {
+      "SourceCode_v8.7.zip": {
+        "exists": true,
+        "synced_at": "2025-07-26 09:20:27.108003"
+      },
+      "SourceCode_v8.7.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-26 09:20:30.223688"
       }
     }
   }
