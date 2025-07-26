@@ -1,6 +1,13 @@
 {
-  "releases": {},
-  "assets": {},
+  "releases": {
+    "1406880": {
+      "tag_name": "v6.7.9",
+      "fully_synced_at": "2025-07-26 08:11:20.779200"
+    }
+  },
+  "assets": {
+    "1406880": {}
+  },
   "source_codes": {
     "v6.7.9": {
       "SourceCode_v6.7.9.zip": {
@@ -10,6 +17,16 @@
       "SourceCode_v6.7.9.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-26 08:11:20.296385"
+      }
+    },
+    "v6.7.9.1": {
+      "SourceCode_v6.7.9.1.zip": {
+        "exists": true,
+        "synced_at": "2025-07-26 08:11:28.826148"
+      },
+      "SourceCode_v6.7.9.1.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-26 08:11:31.698806"
       }
     }
   }
