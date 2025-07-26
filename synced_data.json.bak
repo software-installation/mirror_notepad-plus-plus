@@ -387,6 +387,10 @@
     "102930710": {
       "tag_name": "v8.5.3",
       "fully_synced_at": "2025-07-26 08:57:50.131390"
+    },
+    "109006004": {
+      "tag_name": "v8.5.4",
+      "fully_synced_at": "2025-07-26 08:58:46.454397"
     }
   },
   "assets": {
@@ -7826,6 +7830,16 @@
       "SourceCode_v8.5.4.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-26 08:58:04.550135"
+      }
+    },
+    "v8.5.5": {
+      "SourceCode_v8.5.5.zip": {
+        "exists": true,
+        "synced_at": "2025-07-26 08:58:56.899449"
+      },
+      "SourceCode_v8.5.5.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-07-26 08:58:59.850559"
       }
     }
   }
